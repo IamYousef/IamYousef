@@ -1,5 +1,15 @@
 ### Hi there 👋
+<p align="center">
+  <br>
+  <samp>
+    I'm <b>Yousef</b>.
+    <br>I'm a junior front end developer.<br>
+    <br>That's it 🙃<br>
+</samp>
 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
 <!--
 **IamYousef/IamYousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
