@@ -3,7 +3,7 @@
   <br>
   <samp>
     I'm <b>Yousef</b>.
-    <br>I'm a junior front end developer.<br>
+    <br>A junior front end developer who hates JS.<br>
     <br>That's it 🙃<br>
 </samp>
 
